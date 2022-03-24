@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gwZp1HDwAQs7E5TgTyZjMC31cP2ozE5r0O02d+K5FvNMcNfuIcll1NkyActhpBZq2IpS7YUuf8gmI18am/oIhA==",
+  "dgSpecHash": "Tr2GWsdtTTxaXo+zE9ZtY3lvRiWfpU+Crk8Kq2Mk8GZHN980SA2FvKhHvPOmyWS+xd0tPLx23GSDEy8SIXqrSw==",
   "success": true,
   "projectFilePath": "C:\\Users\\EliteBook\\source\\repos\\CourseLibrary\\CourseLibrary\\CourseLibrary.API.csproj",
   "expectedPackageFiles": [
@@ -91,7 +91,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\EliteBook\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
   ],
   "logs": []
 }
