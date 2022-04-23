@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EliteBook\\source\\repos\\CourseLibrary\\CourseLibrary\\CourseLibrary.API.csproj": {}
+    "F:\\repos\\CourseLibrary\\CourseLibrary\\CourseLibrary.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EliteBook\\source\\repos\\CourseLibrary\\CourseLibrary\\CourseLibrary.API.csproj": {
+    "F:\\repos\\CourseLibrary\\CourseLibrary\\CourseLibrary.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EliteBook\\source\\repos\\CourseLibrary\\CourseLibrary\\CourseLibrary.API.csproj",
+        "projectUniqueName": "F:\\repos\\CourseLibrary\\CourseLibrary\\CourseLibrary.API.csproj",
         "projectName": "CourseLibrary.API",
-        "projectPath": "C:\\Users\\EliteBook\\source\\repos\\CourseLibrary\\CourseLibrary\\CourseLibrary.API.csproj",
-        "packagesPath": "C:\\Users\\EliteBook\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EliteBook\\source\\repos\\CourseLibrary\\CourseLibrary\\obj\\",
+        "projectPath": "F:\\repos\\CourseLibrary\\CourseLibrary\\CourseLibrary.API.csproj",
+        "packagesPath": "C:\\Users\\Flavius M\\.nuget\\packages\\",
+        "outputPath": "F:\\repos\\CourseLibrary\\CourseLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\EliteBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Flavius M\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,12 +73,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.23, 3.1.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -88,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
