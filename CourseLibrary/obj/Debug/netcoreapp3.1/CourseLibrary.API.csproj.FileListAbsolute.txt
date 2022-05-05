@@ -84,3 +84,7 @@ F:\repos\CourseLibrary\CourseLibrary\obj\Debug\netcoreapp3.1\CourseLibrary.API.c
 F:\repos\CourseLibrary\CourseLibrary\obj\Debug\netcoreapp3.1\CourseLibrary.API.dll
 F:\repos\CourseLibrary\CourseLibrary\obj\Debug\netcoreapp3.1\CourseLibrary.API.pdb
 F:\repos\CourseLibrary\CourseLibrary\obj\Debug\netcoreapp3.1\CourseLibrary.API.genruntimeconfig.cache
+F:\repos\CourseLibrary\CourseLibrary\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\repos\CourseLibrary\CourseLibrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\repos\CourseLibrary\CourseLibrary\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\repos\CourseLibrary\CourseLibrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

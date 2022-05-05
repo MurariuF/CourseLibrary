@@ -11,6 +11,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Newtonsoft.Json.Serialization;
 using System;
 
 namespace CourseLibrary.API
@@ -35,6 +36,11 @@ namespace CourseLibrary.API
                 //setupAction.OutputFormatters.Add(
                 //    new XmlDataContractSerializerOutputFormatter());
             })
+                 .AddNewtonsoftJson(setupAction =>
+                 {
+                     setupAction.SerializerSettings.ContractResolver =
+                     new CamelCasePropertyNamesContractResolver();
+                 })
                  .AddXmlDataContractSerializerFormatters()
                  .ConfigureApiBehaviorOptions(setupAction =>
                  {
