@@ -72,7 +72,7 @@ namespace CourseLibrary.API.Helpers
                     orderByString = orderByString +
                         (string.IsNullOrWhiteSpace(orderByString) ? string.Empty : ", ")
                         + destinationProperty
-                        + (orderDescending ? "descending" : "ascending");
+                        + (orderDescending ? " descending" : " ascending");
                 }
             }
 
