@@ -26,7 +26,7 @@ namespace CourseLibrary.API.Controllers
 
             links.Add(
                 new LinkDto(Url.Link("CreateAuthor", new { }),
-                "crate_author",
+                "create_author",
                 "POST"));
 
             return Ok(links);
