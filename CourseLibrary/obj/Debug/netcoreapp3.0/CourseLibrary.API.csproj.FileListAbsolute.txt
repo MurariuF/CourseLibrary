@@ -61,3 +61,5 @@ F:\repos\CourseLibrary\CourseLibrary\obj\Debug\netcoreapp3.0\CourseLibrary.API.c
 F:\repos\CourseLibrary\CourseLibrary\obj\Debug\netcoreapp3.0\CourseLibrary.API.dll
 F:\repos\CourseLibrary\CourseLibrary\obj\Debug\netcoreapp3.0\CourseLibrary.API.pdb
 F:\repos\CourseLibrary\CourseLibrary\obj\Debug\netcoreapp3.0\CourseLibrary.API.genruntimeconfig.cache
+F:\repos\CourseLibrary\CourseLibrary\bin\Debug\netcoreapp3.0\Marvin.Cache.Headers.dll
+F:\repos\CourseLibrary\CourseLibrary\obj\Debug\netcoreapp3.0\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cs
